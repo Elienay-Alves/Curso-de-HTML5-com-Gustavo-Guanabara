@@ -8,7 +8,7 @@ HTML5 (Hypertext Markup Language, versão 5) é uma linguagem de estruturação 
 
 Curso completo para quem quer aprender a criar sites utilizando as tecnologias de HTML5 + CSS3 + JavaScript de uma maneira simples e objetiva. O professor Gustavo Guanabara vai mostrar passo-a-passo da criação de um site completo utilizando as três principais tecnologias do momento.
 
-###Conteúdo:
+### Conteúdo:
 - [X] 00: _Site Completo_
 - [X] 01: _História da Internet_
 - [X] 02: _História do HTML_
